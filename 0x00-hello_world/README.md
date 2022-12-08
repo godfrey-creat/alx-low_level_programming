@@ -1,1 +1,1 @@
-compile a C file and creates an executable cisfun
+C program that prints a text without printf
