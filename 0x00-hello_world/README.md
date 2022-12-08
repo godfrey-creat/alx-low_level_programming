@@ -1,1 +1,1 @@
-C program that prints a text without printf
+c program that prints exactly with proper gramar but outcome is apiece of art
