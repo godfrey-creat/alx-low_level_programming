@@ -1,1 +1,1 @@
-c program that prints exactly with proper gramar but outcome is apiece of art
+c program that prints the sizesof varous types of computers it is compiled and run on
