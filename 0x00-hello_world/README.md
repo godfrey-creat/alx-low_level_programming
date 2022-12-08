@@ -1,1 +1,1 @@
-c program that prints the sizesof varous types of computers it is compiled and run on
+script that generate assembly code
