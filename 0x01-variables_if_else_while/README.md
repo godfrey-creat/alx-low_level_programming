@@ -1,1 +1,1 @@
-program that prints  all the numbers of base 16
+ program that prints all possible combinationa of single-digit
