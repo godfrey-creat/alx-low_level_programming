@@ -1,1 +1,1 @@
-program that print wether int n is positive or negative
+program that prints the last digit of the number stored in variable n
