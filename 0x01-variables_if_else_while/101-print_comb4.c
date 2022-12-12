@@ -22,7 +22,7 @@ int main(void)
 					if (n != 45 || m != 46)
 					{
 						putchar(',');
-						putchar('');
+						putchar(' ');
 					}
 				}
 			}
