@@ -1,1 +1,1 @@
-program that prints the alphabet in lowercase followed by a new line
+function that prints alphabet 10 times in lowercase followed by a new line
