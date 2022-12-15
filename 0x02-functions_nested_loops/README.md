@@ -1,1 +1,1 @@
-print all natural numbers
+prints 9 times table
