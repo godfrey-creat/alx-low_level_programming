@@ -1,1 +1,1 @@
-prints 9 times table
+print the last digit
