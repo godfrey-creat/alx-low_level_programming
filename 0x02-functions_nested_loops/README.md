@@ -1,1 +1,1 @@
-print the last digit
+positive or negative
