@@ -1,1 +1,1 @@
-infinite loop
+program that prints the largest integer
