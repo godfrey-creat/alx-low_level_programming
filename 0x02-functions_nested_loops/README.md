@@ -1,1 +1,1 @@
-addition
+print all natural numbers
