@@ -1,1 +1,1 @@
-check for uppwrcase
+more functions
