@@ -1,1 +1,1 @@
-strlen
+length of string
