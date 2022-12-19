@@ -1,1 +1,1 @@
-print reverse
+looping to half character
