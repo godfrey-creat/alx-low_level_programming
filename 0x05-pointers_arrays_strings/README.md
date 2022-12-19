@@ -1,1 +1,1 @@
-every other character of the string
+half of the string
