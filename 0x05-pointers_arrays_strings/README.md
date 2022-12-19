@@ -1,1 +1,1 @@
-print array
+copy string pointed
