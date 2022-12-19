@@ -1,1 +1,1 @@
-looping to half character
+every other character of the string
