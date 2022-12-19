@@ -1,1 +1,1 @@
-put.c
+print reverse
