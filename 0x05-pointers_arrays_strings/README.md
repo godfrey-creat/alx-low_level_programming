@@ -1,1 +1,1 @@
-copy string pointed
+arrays and strings
