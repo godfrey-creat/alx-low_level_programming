@@ -1,1 +1,1 @@
-more pointers, array and string
+concatenates two strings
