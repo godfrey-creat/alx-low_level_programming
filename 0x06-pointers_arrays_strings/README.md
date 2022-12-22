@@ -1,1 +1,1 @@
-cocatenates 2 strings
+copy string
