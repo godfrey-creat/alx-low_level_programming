@@ -1,1 +1,1 @@
-compare strings
+reverse content
