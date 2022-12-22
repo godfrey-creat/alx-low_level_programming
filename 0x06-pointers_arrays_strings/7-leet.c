@@ -18,7 +18,7 @@ char *leet(char *s)
 		/*loop through array 5 times to check if the value*/
 		for (i = 0; i < 5; i++)
 		{
-			if (s[b] == s[i] || s[b] == f1[i])
+			if (s[b] == s1[i] || s[b] == f1[i])
 			{
 				s[b] = n[i];
 				break;

@@ -1,1 +1,1 @@
-capitalize
+encode
