@@ -1,1 +1,1 @@
-lowercase to uppercase
+capitalize
