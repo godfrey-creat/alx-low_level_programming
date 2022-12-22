@@ -1,1 +1,1 @@
-reverse content
+lowercase to uppercase
