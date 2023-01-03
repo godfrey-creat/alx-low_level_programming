@@ -1,1 +1,1 @@
-more pointers in c
+more pointers
