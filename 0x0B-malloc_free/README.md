@@ -1,1 +1,1 @@
-mallocs
+malloc
