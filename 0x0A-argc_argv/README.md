@@ -1,1 +1,1 @@
-prints its name
+aegc, argv
