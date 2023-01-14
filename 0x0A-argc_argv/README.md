@@ -1,1 +1,1 @@
-argc and argv
+prints its name
