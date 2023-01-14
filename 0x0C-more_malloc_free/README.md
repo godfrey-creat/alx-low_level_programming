@@ -1,1 +1,1 @@
-allocate memory
+cocatenates 2 strings
