@@ -1,3 +1,5 @@
+#include <stddef.h>
+#include "function_pointers.h"
 /**
  * print_name - func to print name
  * @name: name tag
