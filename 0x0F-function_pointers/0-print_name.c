@@ -1,12 +1,12 @@
 /**
  * print_name - func to print name
  * @name: name tag
- * @g: func pointer that doesnt return nothing
+ * @f: func pointer that doesnt return nothing
  * Return: 0
  */
 
-void print_name(char *name, void(*g)(char *))
+void print_name(char *name, void(*f)(char *))
 {
-	if (name && g)
-		g(name);
+	if (name && f)
+		f(name);
 }
