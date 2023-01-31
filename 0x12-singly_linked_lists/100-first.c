@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "lists.h"
 /**
  * premain - func that runs before main
  * Return: nothing
